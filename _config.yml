@@ -1,7 +1,7 @@
-title:            Site Title
-description:      Describe your website here.
-disqus_shortname: hpstrtheme
-reading_time:     true
+title:            Jeffrey T. Miller
+description:      Research Website.
+disqus_shortname: JTM Research
+reading_time:    false
 words_per_minute: 200
 # Your site's domain goes here (eg: //mmistakes.github.io, http://mademistakes.com, etc)
 # When testing locally leave blank or use http://localhost:4000
@@ -9,10 +9,10 @@ url:
 
 # Owner/author information
 owner:
-  name:           Your Name
-  avatar:         avatar.jpg
-  bio:            "Your bio goes here. It shouldn't be super long but a good two sentences or two should suffice."
-  email:          you@email.com
+  name:           Jeffrey Miller
+  avatar:         face.jpg
+  bio:            "PhD Candidate at UC Davis under Dr. Andrew Whitehead"
+  email:          jthmiller@ucdavis.edu
   # Social networking links used in footer. Update and remove as you like.
   twitter:        
   facebook:       
@@ -40,7 +40,9 @@ future:      true
 highlighter: pygments
 markdown:    kramdown
 gems:
-  - jekyll-sitemap
+   - pygments 
+   - jekyll-paginate
+#  - jekyll-sitemap
 sass:
   sass_dir: _sass
   style: compressed
@@ -56,7 +58,7 @@ kramdown:
   footnote_nr: 1
   entity_output: as_char
   toc_levels: 1..6
-  use_coderay: true
+  enable_coderaye: true
 
   coderay:
     coderay_line_numbers: nil
@@ -65,5 +67,5 @@ kramdown:
     coderay_bold_every: 10
     coderay_css: class
 
-include: [".htaccess"]
+#include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "Gemfile", "Gemfile.lock", "README.md", "LICENSE", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules"]
