@@ -3,9 +3,9 @@ layout: page
 title: Research
 image:
   feature: sunset.jpg
-  credit: Gabriele Ng
+  credit: Gabriel Ng (UC Davis, BML)
   creditlink: /
 comments: false
-modified: 2014-12-24
+modified: 2015-11-30
 ---
 
