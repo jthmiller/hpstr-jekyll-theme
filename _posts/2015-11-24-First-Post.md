@@ -9,4 +9,4 @@ image:
   credit: A.Whitehead
   creditlink: https://whiteheadresearch.wordpress.com/people/
 ---
-Research Interests and Posts soon to come!!! Until then, have a look at my publications, CV, and our [lab website](https://whiteheadresearch.wordpress.com/) Photo: Andrew Whitehead, UC-Davis. 
+Research Interests and Posts soon to come!!! Until then, have a look at my publications, CV, and our [lab website](https://whiteheadresearch.wordpress.com/) Photo: Ben Dubansky, UNT. 

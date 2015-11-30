@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About the Jekyll Theme
+title: Research
 image:
   feature: sunset.jpg
   credit: Gabriele Ng
