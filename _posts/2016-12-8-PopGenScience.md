@@ -2,7 +2,7 @@
 layout: posts
 title: Population genetics of pollution resistant killifish in Science 
 description: link to Reid et al Science
-modified: 2016-12-7
+modified: 2016-12-8
 tags: [killifish]
 image:6317.cover-source
   feature: 
