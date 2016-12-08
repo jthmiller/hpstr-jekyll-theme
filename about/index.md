@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Research
+title: Current Research
 image:
   feature: sunset.jpg
   credit: Gabriel Ng (UC Davis, BML)
