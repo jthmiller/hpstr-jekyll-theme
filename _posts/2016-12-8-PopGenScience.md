@@ -9,6 +9,6 @@ image:
   credit: 
   creditlink: 
 ---
-New research out of the Whitehead Lab!
+New research out of the [Whitehead Lab!](http://whiteheadresearch.wordpress.com/people/)
 
 [The genomic landscape of rapid repeated evolutionary adaptation to toxic pollution in wild fish](http://science.sciencemag.org/content/354/6317/1305)
