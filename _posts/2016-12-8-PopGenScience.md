@@ -5,7 +5,7 @@ description: link to Reid et al Science
 modified: 2016-12-8
 tags: [killifish]
 image:
-  feature:6317.cover-source 
+  feature: 6317.cover-source.gif 
   credit: 
   creditlink: 
 ---
