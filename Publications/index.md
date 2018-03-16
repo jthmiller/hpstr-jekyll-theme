@@ -10,7 +10,7 @@ image:
   creditlink:
 share:
 ---
-[Google Scholar](https://scholar.google.com/citations?hl=en&user=N8gpI2YAAAAJ&view_op=list_works&sortby=pubdate) and [C.V.](/assets/JM_CV_2017.pdf)
+[Google Scholar](https://scholar.google.com/citations?hl=en&user=N8gpI2YAAAAJ&view_op=list_works&sortby=pubdate) and [C.V.](/assets/JM_2018_cv.pdf)
 
 Miller J., Reid N., Nacci D., Whitehead A. Meiotic Map and Synteny Analysis of the Fundulus heteroclitus Genome. IN PREP.
 
