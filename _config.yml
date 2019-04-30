@@ -11,28 +11,28 @@ url:
 owner:
   name:           Jeffrey Miller
   avatar:         face.jpg
-  bio:            "PhD Candidate at UC Davis under Dr. Andrew Whitehead"
+  bio:            "Postdoctoral research with Suzanne McGaugh at University of Minnesota"
   email:          jthmiller@ucdavis.edu
   # Social networking links used in footer. Update and remove as you like.
-  twitter:        
-  facebook:       
-  github:         
-  stackexchange:  
-  linkedin:       
-  instagram:      
-  flickr:         
-  tumblr:         
+  twitter:        @JMiller_Evomics
+  facebook:
+  github:         https://github.com/jthmiller
+  stackexchange:
+  linkedin:
+  instagram:
+  flickr:
+  tumblr:
   # google plus id, include the '+', eg +mmistakes
   google_plus:    +yourid
 
 # Background image to be tiled on all pages
-background: 
+background:
 
 # Analytics and webmaster tools stuff goes here
-google_analytics:   
-google_verify:      
+google_analytics:
+google_verify:
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
-bing_verify:         
+bing_verify:
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    America/New_York
@@ -40,7 +40,7 @@ future:      true
 highlighter: rouge
 markdown:    kramdown
 gems:
-   - pygments 
+   - pygments
    - jekyll-paginate
 #  - jekyll-sitemap
 sass:
