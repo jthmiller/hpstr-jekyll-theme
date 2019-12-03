@@ -1,13 +1,14 @@
 ---
-layout: posts
-title: Population genetics of pollution resistant killifish in Science 
+layout: post
+title: Population genetics of pollution resistant killifish in Science
 description: link to Reid et al Science
 modified: 2016-12-8
 tags: [killifish]
 image:
-  feature: 6317.cover-source.gif 
-  credit: 
-  creditlink: 
+  path: /images/6317.cover-source.gif
+  feature: 6317.cover-source.gif
+  credit:
+  creditlink:
 ---
 New research out of the [Whitehead Lab!](http://whiteheadresearch.wordpress.com/people/)
 
