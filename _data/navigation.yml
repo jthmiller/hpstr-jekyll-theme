@@ -1,10 +1,10 @@
 # Menu navigation links
 
 - title: Publications
-  url: publications/
+  url: /publications/
 
 - title: Research
-  url: research/
+  url: /research/
 
 - title: Whitehead Lab Page
   url: https://whiteheadresearch.wordpress.com
