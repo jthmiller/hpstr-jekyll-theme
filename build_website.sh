@@ -32,5 +32,8 @@ bundle update --bundler
 export PATH=/usr/local/opt/ruby/bin:$PATH
 
 bundle exec jekyll build
-
+bundle exec jekyll s
 bundle update rouge
+
+
+bundle exec jekyll clean
