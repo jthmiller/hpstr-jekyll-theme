@@ -13,7 +13,7 @@ permalink: /publications/
 ---
 [Google Scholar](https://scholar.google.com/citations?hl=en&user=N8gpI2YAAAAJ&view_op=list_works&sortby=pubdate) and [C.V.](/assets/JM_CV_2019.pdf)
 
-Miller, J., Reid, N., Nacci, D., Whitehead, A. (2019) Developing a High-Quality Linkage Map for the Atlantic Killifish Fundulus heteroclitus. G3: Genes, Genomes, Genetics (9), 9 2851-2862.
+Miller, J., Reid, N., Nacci, D., Whitehead, A. (2019) Developing a High-Quality Linkage Map for the Atlantic Killifish Fundulus heteroclitus. G3: Genes, Genomes, Genetics (9), 9 2851-2862.[pdf](/images/JM_CV_2019.pdf)
 
 Swee J. Rochman, Chelsea M. Tahir, Akbar Williams, Susan L. Baxa, Dolores V. Lam, Rosalyn **Miller, Jeffrey** T. Teh, Foo-Ching Werorilangi, Shinta Teh, 2015. Anthropogenic debris in seafood: Plastic debris and fibers from textiles in fish and bivalves sold for human consumption. Scientific Reports 5, 14340
 
