@@ -11,7 +11,7 @@ image:
 share:
 permalink: /publications/
 ---
-[Google Scholar](https://scholar.google.com/citations?hl=en&user=N8gpI2YAAAAJ&view_op=list_works&sortby=pubdate) and [C.V.](/assets/JM_2019.pdf)
+[Google Scholar](https://scholar.google.com/citations?hl=en&user=N8gpI2YAAAAJ&view_op=list_works&sortby=pubdate) and [C.V.](/assets/JM_CV_2019.pdf)
 
 Miller, J., Reid, N., Nacci, D., Whitehead, A. (2019) Developing a High-Quality Linkage Map for the Atlantic Killifish Fundulus heteroclitus. G3: Genes, Genomes, Genetics (9), 9 2851-2862.
 
