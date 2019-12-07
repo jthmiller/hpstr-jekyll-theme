@@ -13,12 +13,21 @@ permalink: /publications/
 ---
 [Google Scholar](https://scholar.google.com/citations?hl=en&user=N8gpI2YAAAAJ&view_op=list_works&sortby=pubdate) and [C.V.](/assets/JM_CV_2019.pdf)
 
-Miller, J., Reid, N., Nacci, D., Whitehead, A. (2019) Developing a High-Quality Linkage Map for the Atlantic Killifish Fundulus heteroclitus. G3: Genes, Genomes, Genetics (9), 9 2851-2862. [pdf](/assets/map_paper.pdf)
+# PUBLICATIONS:
+**Miller, J.**, Reid, N., Nacci, D., Whitehead, A. (2019) Developing a High-Quality Linkage Map for the Atlantic Killifish _Fundulus heteroclitus._\ G3: Genes, Genomes, Genetics (9), 9 2851-2862. [pdf](/assets/map_paper.pdf)
 
-Swee J. Rochman, Chelsea M. Tahir, Akbar Williams, Susan L. Baxa, Dolores V. Lam, Rosalyn **Miller, Jeffrey** T. Teh, Foo-Ching Werorilangi, Shinta Teh, 2015. Anthropogenic debris in seafood: Plastic debris and fibers from textiles in fish and bivalves sold for human consumption. Scientific Reports 5, 14340
+Rochman, C., Tahir, A., Williams, S., Baxa, D., Lam, R., **Miller, J.**, Teh, F.C., Werorilangi, S., Teh, S. J. (2015) Plastic in seafood: Plastic Debris in Fish and Bivalves Sold for Human Consumption. Scientific Reports (5), 14340.
 
-B Dubansky, A Whitehead, **JT Miller**, CD Rice, F Galvez, 2013. Multitissue molecular, genomic, and developmental effects of the Deepwater Horizon oil spill on resident Gulf killifish (Fundulus grandis). Environmental science & technology 47 (10), 5074-5082
+Dubansky, B., Whitehead, A., **Miller, J.**, Rice, C. D., & Galvez, F. (2013) Multitissue Molecular, Genomic, and Developmental Effects of the Deepwater Dorizon Oil Spill on Resident Gulf killifish (*Fundulus grandis*). Environmental Science and Technology (47), 5074–5082.
 
-Alan S Kolok, **Jeffrey T Miller**, Heiko L Schoenfuss, 2012. The mini mobile environmental monitoring unit: A novel bio-assessment tool. Journal of Environmental Monitoring 14 (1), 202-208
+Kolok, A., **Miller,  J.**, Schoenfuss, H. (2012) The Mini Mobile Environmental Monitoring Unit: a Novel Bio-Assessment Tool. Journal of Environmental Monitoring (14) 1, 202-208
 
-Brian D Wisenden, Justin Karst, **Jeffrey Miller**, Stacey Miller, Linda Fuselier, 2008. Anti-predator behaviour in response to conspecific chemical alarm cues in an esociform fish, Umbra limi (Kirtland 1840). Environmental biology of fishes 82 (1), 85-92
+Wisenden, B., Karst, J, **Miller, J.**, Miller, S.D. Fuselier, L. (2008) Anti-Predator Behavior in Response to Chemical Cues in _Umbra limi._\ Environmental Biology of Fishes (82), 85-92
+
+*IN PREPERATION:*
+
+**Miller J.**, Clark, B., Reid, N., Nacci, D., Champlain, D., Whitehead, A. Genetic Architecture of Pollution Resistance in Parallel Populations of Killifish.
+
+**Miller J.**, Gallop, J., Weagley, J., Sung J., Stahl, B., Jaggard, J., Jeffery, W., Borowsky, R., Ornelas-García, C., Maldonado, E., Warren, W., Keene, A., Rohner, N., McGaugh, S. A Population Genomics Approach Reveals Premature Termination Codons that Impact Morphological and Behavioral Evolution in _Astyanax mexicanus_\.
+
+Warren, W., Aspiras, A., Boggs, T.E., Borowsky, R., Carlson, B., Damen, F., Ferrufino, E., Gross, J., Keene, A., Kenzior, A., Kowalko, J., Lemieux, M. E., McGaugh, S., **Miller, J. T.**, Mommersteeg, M., Moran, R., Peuß, R., Riddle, M., Sifuentes-Romero, I., Stahl, B., Sung, J. Y., Tabin, C., Thakur, S., Rohner, R. A high-resolution genome of _Astyanax mexicanus._\ surface fish for comparing population-specific genetic differences contributing to trait evolution.
